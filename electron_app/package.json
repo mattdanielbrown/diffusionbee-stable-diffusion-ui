@@ -30,7 +30,7 @@
     "electron-context-menu": "^3.5.0",
     "electron-localshortcut": "^3.2.1",
     "electron-notarize": "^1.2.1",
-    "electron-settings": "^4.0.2",
+    "electron-settings": "^4.0.3",
     "fuse.js": "^6.6.2",
     "javascript-time-ago": "^2.3.13",
     "js-yaml": "^4.1.0",
@@ -60,7 +60,7 @@
     "electron": "^13.6.9",
     "electron-builder": "^23.3.3",
     "electron-devtools-installer": "^3.1.0",
-    "eslint": "^7.32.0",
+    "eslint": "^9.26.0",
     "eslint-plugin-vue": "^8.0.3",
     "vue-cli-plugin-electron-builder": "^2.1.1",
     "vue-template-compiler": "^2.6.14"
